@@ -11,5 +11,6 @@ Particular components I explored:
 * https://bulma.io/documentation/layout/hero/
 * https://fontawesome.com/
 
-Website: http://ec2-18-220-193-203.us-east-2.compute.amazonaws.com/
+Website: 
+* http://ec2-18-220-193-203.us-east-2.compute.amazonaws.com/
 
